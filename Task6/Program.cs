@@ -8,7 +8,7 @@ namespace Task6
 {
     class Program
     {
-        //Проверка на ввод корректного вещественного числа
+        //Проверка на ввод корректного вещественного числа 
         public static void CheckNumber(out double k)
         {
             bool OK=false;
